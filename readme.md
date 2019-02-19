@@ -1,2 +1,2 @@
 # learn
-> learn Java/OC
+> 学习 Java/oc
