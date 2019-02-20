@@ -1,7 +1,5 @@
 package day1;
 
-import jdk.internal.cmm.SystemResourcePressureImpl;
-
 public class Dog {
     //¹·µÄÄêÁä
 	int dogAge;
