@@ -7,6 +7,7 @@
 	 git status 查看修改文件
 	 git diff  查看具体修改内容
 	 git push   提交到远程服务器
+	 
 >>Towday
 >>>对象和类
      对象：一个具体实例，有状态和行为
@@ -19,3 +20,10 @@
      for循环   while循环   do...while循环
 >>>条件语句
      if  if...else
+>>>Java switch case语句
+     switch遇到break switch语句终止，跳转到switch语句后面的语句执行
+	 case语句如果没有break，程序会继续执行下一条case语句，直到出现break语句
+>>>Java Number & Math 类
+     Math.ceil返回大于等于( >= )给定参数的的最小整数
+	 Math.floor返回小于等于（<=）给定参数的最大整数
+	 Math.round它表示四舍五入
