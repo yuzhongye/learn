@@ -1,6 +1,6 @@
 # learn
 > 学习 Java
->>Oneday
+>>One Day
 >>>git用法
      git add .  添加
 	 git commit -a -m " "  提交
@@ -8,7 +8,7 @@
 	 git diff  查看具体修改内容
 	 git push   提交到远程服务器
 	 
->>Towday
+>>Tow Day
 >>>对象和类
      对象：一个具体实例，有状态和行为
 	      创建对象就是要先声明一个对象，然后用关键字new来创建对象（实例化）用new创建对象时，会调用构造方法初始化对象。
@@ -27,3 +27,6 @@
      Math.ceil返回大于等于( >= )给定参数的的最小整数
 	 Math.floor返回小于等于（<=）给定参数的最大整数
 	 Math.round它表示四舍五入
+>>Three Day
+>>>数组
+     数组索引值必须从0开始
