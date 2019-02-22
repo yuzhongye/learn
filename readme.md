@@ -41,3 +41,16 @@
 
 * 数组
      数组索引值必须从0开始
+
+## Four Day
+
+* 读取文件
+     FilelnputStream与FileOutputStream的区别:FileOutputStream如果该流在打开文件进行输出前，目标文件不存在，那么该流会创建该文件
+* 删除目录或文件
+     当删除目录时，必须保证该目录下没有其他文件才能正确删除，否则删除失败
+
+* Java Scanner类
+     **next()与nextLine()区别
+	 next()字符前的空白会被自动去掉，输入有效字符后才将其后面输入的空白作为分隔符或者结束符；next()不能得到带空格的字符串。
+	 nextLine()以Enter为结束符，可以获得空白
+* Java异常处理
