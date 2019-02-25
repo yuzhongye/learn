@@ -30,9 +30,8 @@ public class Work1 {
     			 t1[i] = t1[i]-t1[pos];
     		 }
     		 for(int k=t1.length-1;k>=0;k--) {
-    			 //if(k<=0) {
+    			 //if(k==0)
     			 System.out.print(t1[k] + " ");
-    			 //}
     		 }
     	 }
      }
