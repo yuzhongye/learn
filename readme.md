@@ -70,3 +70,5 @@
 *Java 抽象类
 
 *Java 封装
+
+*Java 接口
