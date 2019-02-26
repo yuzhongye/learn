@@ -74,3 +74,20 @@
 * Java 封装
 
 * Java 接口
+
+## Six Day
+
+* Java 数据结构
+
+     1. 枚举（Enumeration）
+     2. 位集合（BitSet）
+     3. 向量（Vector）
+     4. 栈（Stack）
+     5. 字典（Dictionary）
+     6. 哈希表（Hashtable）
+     7. 属性（Properties）
+	 8. 集合框架（Collection）
+
+* Java 泛型
+
+     泛型方法可以被一类调用
