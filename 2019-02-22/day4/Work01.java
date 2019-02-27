@@ -24,6 +24,7 @@ public class Work01 {
     			 if(t1[pos]>t1[j])
     				 pos=j;
     		 }
+    		 //Why
     		 if(pos !=i) {
     			 t1[i] = t1[i]+t1[pos];
     			 t1[pos] = t1[i]-t1[pos];
