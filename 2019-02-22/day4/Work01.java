@@ -3,13 +3,13 @@ package day4;
 import java.util.Scanner;
 
 //对给定的四个整数从大到小的顺序排列
-public class Work1 {
+public class Work01 {
 	//输入四个数放在数组中
     static int number = 4;
     static int[] t1 = new int [number];
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       Work1 fil = new Work1();
+       Work01 fil = new Work01();
        fil.shunxu();
 	}
      public void shunxu() {
