@@ -12,15 +12,12 @@ public class Work18 {
 		//for(int j=0;j>0;j++) {
 		//if((X*100+Y*10+Z)+(Y*100+Z*10+Z)==532) {
          //System.out.println("X="+X+"Y="+Y+"Z="+Z);
-         //break;
         //}else {
-        	//for(int i=0;i>0;i++) {
      		   //Random rd = new Random();
                  //X = rd.nextInt(10);
                  //Y = rd.nextInt(10);
                  //Z = rd.nextInt(10);
-              //}
-        //}
+            //}
         //}
 		while((X*100+Y*10+Z)+(Y*100+Z*10+Z)!=532) {
 			Random rd = new Random();
