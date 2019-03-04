@@ -12,6 +12,10 @@ public class Work01 {
        Work01 fil = new Work01();
        fil.shunxu();
 	}
+	/**
+	 * 1. 
+	 * 2. 
+	 */
      public void shunxu() {
     	 System.out.println("请输入四个数");
     	 Scanner in_t1 = new Scanner(System.in);
